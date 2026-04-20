@@ -1,153 +1,153 @@
 {
   "Quizzes": [
     {
-      "QuizOptions": [
-        "Brazil",
-        "Germany",
-        "France",
-        "Argentina"
-      ],
+      "QuizOptions": ["Brazil", "Germany", "France", "Argentina"],
       "QuizQuestion": "Which country has won the most FIFA World Cups?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Lionel Messi",
-        "Cristiano Ronaldo",
-        "Pele",
-        "Maradona"
-      ],
+      "QuizOptions": ["Lionel Messi", "Cristiano Ronaldo", "Pele", "Maradona"],
       "QuizQuestion": "Who has won the most Ballon d'Or awards?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Real Madrid",
-        "Barcelona",
-        "Bayern Munich",
-        "Liverpool"
-      ],
+      "QuizOptions": ["Real Madrid", "Barcelona", "Bayern Munich", "Liverpool"],
       "QuizQuestion": "Which club has won the most UEFA Champions League titles?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
+      "QuizOptions": ["9", "10", "11", "12"],
       "QuizQuestion": "How many players are on the field for one football team?",
       "UizAnswerIndex": 2
     },
     {
-      "QuizOptions": [
-        "90 minutes",
-        "80 minutes",
-        "100 minutes",
-        "70 minutes"
-      ],
+      "QuizOptions": ["90 minutes", "80 minutes", "100 minutes", "70 minutes"],
       "QuizQuestion": "How long is a standard football match (excluding extra time)?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Qatar",
-        "Russia",
-        "USA",
-        "Germany"
-      ],
+      "QuizOptions": ["Qatar", "Russia", "USA", "Germany"],
       "QuizQuestion": "Which country hosted the 2022 FIFA World Cup?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "France",
-        "Croatia",
-        "Belgium",
-        "England"
-      ],
+      "QuizOptions": ["France", "Croatia", "Belgium", "England"],
       "QuizQuestion": "Which country won the FIFA World Cup in 2018?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Argentina",
-        "France",
-        "Croatia",
-        "Morocco"
-      ],
+      "QuizOptions": ["Argentina", "France", "Croatia", "Morocco"],
       "QuizQuestion": "Which country won the FIFA World Cup in 2022?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Manchester United",
-        "Liverpool",
-        "Arsenal",
-        "Chelsea"
-      ],
+      "QuizOptions": ["Manchester United", "Liverpool", "Arsenal", "Chelsea"],
       "QuizQuestion": "Which club is known as 'The Red Devils'?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Mohamed Salah",
-        "Sadio Mane",
-        "Karim Benzema",
-        "Robert Lewandowski"
-      ],
+      "QuizOptions": ["Mohamed Salah", "Sadio Mane", "Karim Benzema", "Robert Lewandowski"],
       "QuizQuestion": "Which player is known as 'The Egyptian King'?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Striker",
-        "Midfielder",
-        "Defender",
-        "Goalkeeper"
-      ],
+      "QuizOptions": ["Striker", "Midfielder", "Defender", "Goalkeeper"],
       "QuizQuestion": "Which position is primarily responsible for stopping goals?",
       "UizAnswerIndex": 3
     },
     {
-      "QuizOptions": [
-        "Offside",
-        "Foul",
-        "Handball",
-        "Yellow card"
-      ],
+      "QuizOptions": ["Offside", "Foul", "Handball", "Yellow card"],
       "QuizQuestion": "What is it called when an attacking player is behind the last defender when the ball is played?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Pele",
-        "Maradona",
-        "Ronaldo Nazario",
-        "Zinedine Zidane"
-      ],
+      "QuizOptions": ["Pele", "Maradona", "Ronaldo Nazario", "Zinedine Zidane"],
       "QuizQuestion": "Who scored the 'Hand of God' goal?",
       "UizAnswerIndex": 1
     },
     {
-      "QuizOptions": [
-        "Camp Nou",
-        "Santiago Bernabeu",
-        "Wembley Stadium",
-        "San Siro"
-      ],
+      "QuizOptions": ["Camp Nou", "Santiago Bernabeu", "Wembley Stadium", "San Siro"],
       "QuizQuestion": "Which stadium is home to FC Barcelona?",
       "UizAnswerIndex": 0
     },
     {
-      "QuizOptions": [
-        "Penalty kick",
-        "Free kick",
-        "Corner kick",
-        "Goal kick"
-      ],
+      "QuizOptions": ["Penalty kick", "Free kick", "Corner kick", "Goal kick"],
       "QuizQuestion": "What is awarded when a foul is committed inside the penalty box?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Liverpool", "Arsenal", "Manchester United", "Chelsea"],
+      "QuizQuestion": "Which Premier League club has won the most league titles?",
+      "UizAnswerIndex": 2
+    },
+    {
+      "QuizOptions": ["Alan Shearer", "Wayne Rooney", "Harry Kane", "Sergio Aguero"],
+      "QuizQuestion": "Who is the all-time top scorer in Premier League history?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Barcelona", "AC Milan", "Bayern Munich", "Liverpool"],
+      "QuizQuestion": "Which club won the Champions League in 2005 after being 3-0 down at halftime?",
+      "UizAnswerIndex": 3
+    },
+    {
+      "QuizOptions": ["Sporting CP", "Manchester United", "Juventus", "Al-Nassr"],
+      "QuizQuestion": "Which club did Cristiano Ronaldo play for before joining Real Madrid?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["Manuel Neuer", "Gianluigi Buffon", "Lev Yashin", "Iker Casillas"],
+      "QuizQuestion": "Who is the only goalkeeper to have won the Ballon d'Or?",
+      "UizAnswerIndex": 2
+    },
+    {
+      "QuizOptions": ["France", "Germany", "Spain", "Italy"],
+      "QuizQuestion": "Which country has won the UEFA European Championship most times?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["Ali Daei", "Cristiano Ronaldo", "Lionel Messi", "Sunil Chhetri"],
+      "QuizQuestion": "Who is the all-time top scorer in men's international football?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["Manchester City", "Everton", "Birmingham City", "Chelsea"],
+      "QuizQuestion": "Which club is known as 'The Blues'?",
+      "UizAnswerIndex": 3
+    },
+    {
+      "QuizOptions": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Karim Benzema"],
+      "QuizQuestion": "Who has scored the most goals in Champions League history?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["1992", "1995", "1998", "2000"],
+      "QuizQuestion": "In which year was the Premier League founded?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Zinedine Zidane", "Didier Deschamps", "Pep Guardiola", "Jurgen Klopp"],
+      "QuizQuestion": "Who won the World Cup as both a player and a manager?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["Borussia Dortmund", "Bayern Munich", "RB Leipzig", "Bayer Leverkusen"],
+      "QuizQuestion": "Which club has won the most Bundesliga titles?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["Juventus", "AC Milan", "Inter Milan", "Roma"],
+      "QuizQuestion": "Which Italian club has won the most Serie A titles?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["1966", "1970", "1986", "1990"],
+      "QuizQuestion": "In which year did England win their only FIFA World Cup?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Kylian Mbappe", "Erling Haaland", "Vinicius Jr", "Jude Bellingham"],
+      "QuizQuestion": "Who won the Golden Boot at the 2022 FIFA World Cup?",
       "UizAnswerIndex": 0
     }
   ],
@@ -155,7 +155,7 @@
     "ShowQuiz": true,
     "ClickCount": 3,
     "ShowEvents": false,
-    "ShowScores": false,
+    "ShowScores": true,
     "ShowUpdate": false,
     "UpdateLink": "",
     "ShowChannels": false,
